@@ -3,11 +3,12 @@
 # Trabalho Prático - Semana-01
 
 ## Informações Gerais
-Nome: 
-Matricula: 
+Nome: Lucas Siqueira Campo Dall Orto
+Matricula: 886117
 
 ## Tela de inspeção com navegador
-
+![alt text](<Inspeção com Navegador.PNG>)
 
 ## Tela de projeto no Replit
+![alt text](<Projeto Replit.PNG>)
 
